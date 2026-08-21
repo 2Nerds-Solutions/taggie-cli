@@ -1,0 +1,43 @@
+{
+  "name": "taggie-cli",
+  "version": "0.2.2",
+  "description": "A CLI for safely adding and managing project attribution (\"Made with ___ for ___\" footers) across your codebase - generate, check, sync, and remove.",
+  "type": "module",
+  "bin": {
+    "taggie": "bin/taggie.js"
+  },
+  "files": [
+    "bin",
+    "skill"
+  ],
+  "scripts": {
+    "test": "node --test test/"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "cli",
+    "tagline",
+    "footer",
+    "made-with-love",
+    "generator",
+    "attribution",
+    "ci"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2Nerds-Solutions/taggie-cli.git"
+  },
+  "homepage": "https://github.com/2Nerds-Solutions/taggie-cli#readme",
+  "bugs": {
+    "url": "https://github.com/2Nerds-Solutions/taggie-cli/issues"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^12.1.0",
+    "node-emoji": "^2.2.0",
+    "prompts": "^2.4.2"
+  }
+}
