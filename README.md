@@ -5,8 +5,6 @@
 [![license](https://img.shields.io/npm/l/taggie-cli.svg)](https://github.com/2Nerds-Solutions/taggie-cli/blob/main/LICENSE)
 [![node](https://img.shields.io/node/v/taggie-cli.svg)](https://www.npmjs.com/package/taggie-cli)
 
-Made with ❤️ by 2Nerds
-
 **A CLI for safely adding and managing project attribution across your codebase.**
 
 taggie can:
@@ -337,3 +335,7 @@ npm publish
 ```
 
 > The name "taggie" was already taken on npm (an unrelated redis package), so this package is named `taggie-cli` — the command itself is still `taggie`. You can rename it in `package.json` before publishing if you'd like.
+
+---
+
+Made with ❤️ by 2Nerds
