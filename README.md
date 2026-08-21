@@ -317,6 +317,10 @@ taggie --remove --dry-run                                      # preview a remov
 taggie --init-skill                                            # install agent integration
 ```
 
+## Changelog
+
+See [CHANGELOG.md](CHANGELOG.md) for the version history, or the [Releases](https://github.com/2Nerds-Solutions/taggie-cli/releases) page.
+
 ## Running tests
 
 ```bash
