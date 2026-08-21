@@ -1,5 +1,10 @@
 # taggie-cli
 
+[![npm version](https://img.shields.io/npm/v/taggie-cli.svg)](https://www.npmjs.com/package/taggie-cli)
+[![npm downloads](https://img.shields.io/npm/dm/taggie-cli.svg)](https://www.npmjs.com/package/taggie-cli)
+[![license](https://img.shields.io/npm/l/taggie-cli.svg)](https://github.com/2Nerds-Solutions/taggie-cli/blob/main/LICENSE)
+[![node](https://img.shields.io/node/v/taggie-cli.svg)](https://www.npmjs.com/package/taggie-cli)
+
 Made with love by 2Nerds
 
 **A CLI for safely adding and managing project attribution across your codebase.**
@@ -29,6 +34,8 @@ It's a small, local-first developer utility - no backend, no account, no dashboa
 ```
 
 ## Installation
+
+[**taggie-cli on npm →**](https://www.npmjs.com/package/taggie-cli)
 
 ```bash
 npm install -g taggie-cli   # or: npx taggie-cli ...
