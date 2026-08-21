@@ -5,7 +5,7 @@
 [![license](https://img.shields.io/npm/l/taggie-cli.svg)](https://github.com/2Nerds-Solutions/taggie-cli/blob/main/LICENSE)
 [![node](https://img.shields.io/node/v/taggie-cli.svg)](https://www.npmjs.com/package/taggie-cli)
 
-Made with love by 2Nerds
+Made with ❤️ by 2Nerds
 
 **A CLI for safely adding and managing project attribution across your codebase.**
 
